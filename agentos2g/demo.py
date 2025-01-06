@@ -7,7 +7,7 @@ import cv2
 import gradio as gr
 
 from a2g.a2g import a2g
-from a2g.message import Message
+from a2g.message import Message 
 
 
 def cover_img(background, img, place: Tuple[int, int]):

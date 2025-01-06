@@ -10,9 +10,6 @@
 
 # [AG2](https://github.com/ag2ai/ag2)
 
-pip install pyautogen
-```
-
 ## What is AG2
 
 AG2 (formerly AutoGen) is an open-source programming framework for building AI agents and facilitating cooperation among multiple agents to solve tasks. AG2 aims to streamline the development and research of agentic AI, much like PyTorch does for Deep Learning. It offers features such as agents capable of interacting with each other, facilitates the use of various large language models (LLMs) and tool use support, autonomous and human-in-the-loop workflows, and multi-agent conversation patterns.

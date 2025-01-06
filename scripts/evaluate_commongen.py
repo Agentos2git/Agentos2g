@@ -4,7 +4,7 @@ import spacy
 from tqdm import tqdm
 
 
-nlp = spacy.load("en_core_web_sm")
+nlp = spacy.load("en_core_web_sm") 
 
 
 def coverage_score(preds, concept_sets):

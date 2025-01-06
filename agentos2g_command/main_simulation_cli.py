@@ -3,8 +3,7 @@ import logging
 from argparse import ArgumentParser
 
 from a2g.logging import logger
-from a2g.simulation import Simulation
-
+from a2g.simulation import Simulation 
 parser = ArgumentParser()
 parser.add_argument("--task", type=str, default="simulation/prisoner_dilemma")
 parser.add_argument(

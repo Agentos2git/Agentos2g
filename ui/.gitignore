@@ -6,7 +6,7 @@ Thumbs.db
 *.sublime-project
 *.sublime-workspace
 
-# Vendors
+# Vendors 
 node_modules/
 
 # Build

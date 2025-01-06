@@ -4,7 +4,7 @@ RUN sed -i 's/deb.debian.org/mirrors.tuna.tsinghua.edu.cn/g' /etc/apt/sources.li
 RUN pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple && \
     pip3 install --upgrade pip  # enable PEP 660 support
 WORKDIR /app
-# install libGL.so.1
+# install libGL.so.1 
 RUN apt-get update && apt-get install libgl1 -y
 # install BMTools
 RUN git clone https://github.com/OpenBMB/BMTools.git --depth=1

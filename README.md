@@ -247,25 +247,3 @@ Explore detailed implementations with sample code and applications to help you g
     ↑ Back to Top ↑
   </a>
 </p>
-
-## Contributors Wall
-<a href="https://github.com/ag2ai/ag2/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ag2ai/ag2&max=204" />
-</a>
-
-<p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
-  <a href="#readme-top" style="text-decoration: none; color: blue; font-weight: bold;">
-    ↑ Back to Top ↑
-  </a>
-</p>
-
-## License
-This project is licensed under the [Apache License, Version 2.0 (Apache-2.0)](./LICENSE).
-
-This project is a spin-off of [AutoGen](https://github.com/microsoft/autogen) and contains code under two licenses:
-
-- The original code from https://github.com/microsoft/autogen is licensed under the MIT License.  See the [LICENSE_original_MIT](./license_original/LICENSE_original_MIT) file for details.
-
-- Modifications and additions made in this fork are licensed under the Apache License, Version 2.0. See the  [LICENSE](./LICENSE) file for the full license text.
-
-We have documented these changes for clarity and to ensure transparency with our user and contributor community. For more details, please see the [NOTICE](./NOTICE.md) file.

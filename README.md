@@ -10,23 +10,6 @@
 
 # [AG2](https://github.com/ag2ai/ag2)
 
-[📚 Cite paper](#related-papers).
-<!-- <p align="center">
-    <img src="https://github.com/ag2ai/ag2/blob/main/website/static/img/flaml.svg"  width=200>
-    <br>
-</p> -->
-
-> **:tada: IMPORTANT**
->
-> :fire: :tada: **Nov 11, 2024:** We are evolving AutoGen into **AG2**!
-> A new organization [AG2ai](https://github.com/ag2ai) is created to host the development of AG2 and related projects with open governance. Check [AG2's new look](https://ag2.ai/).
->
-> We invite collaborators from all organizations and individuals to join the development.
-
-
-:fire: :tada: AG2 is available via `pyautogen` (or its alias  `autogen` or  `ag2`)  on PyPI!
-
-```
 pip install pyautogen
 ```
 

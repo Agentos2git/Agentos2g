@@ -7,7 +7,7 @@ from a2g.message import Message
 
 
 class UserRequest(BaseModel):
-    content: str = Field(default="")
+    content: str = Field(default="") 
     sender: str = Field(default="Brendan")
     receiver: str
     receiver_id: int

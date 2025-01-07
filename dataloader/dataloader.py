@@ -6,7 +6,7 @@ class DataLoader:
     def __init__(self, path: str):
         self.path = path
         self.examples = []
-        self.load()
+        self.load() 
 
     @abstractmethod
     def load(self):
